@@ -1,0 +1,8 @@
+/data/*
+/input/*
+/feature/*
+/predict/
+.vscode
+.DS_Store
+.ipynb_checkpoints
+/notebook/.ipynb_checkpoints
